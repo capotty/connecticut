@@ -2,7 +2,10 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2025-02-05T21:51:47+00:00</lastmod>
+		<lastmod>2025-02-06T18:16:38+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/02/authorized-dealer.jpeg</image:loc>
+		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/11/40-ft-container-1-1024x580.webp</image:loc>
 		</image:image>
@@ -20,84 +23,84 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>/meriden/</loc>
+		<lastmod>2025-02-07T00:54:31+00:00</lastmod>
+	</url>
+	<url>
 		<loc>/danbury/</loc>
-		<lastmod>2025-02-06T02:26:06+00:00</lastmod>
+		<lastmod>2025-02-07T00:54:30+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/new-britain/</loc>
-		<lastmod>2025-02-06T02:26:06+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/meriden/</loc>
-		<lastmod>2025-02-06T02:26:06+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/hartford/</loc>
-		<lastmod>2025-02-06T02:26:05+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/waterbury/</loc>
-		<lastmod>2025-02-06T02:26:05+00:00</lastmod>
+		<lastmod>2025-02-07T00:54:30+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/norwalk/</loc>
-		<lastmod>2025-02-06T02:26:05+00:00</lastmod>
+		<lastmod>2025-02-07T00:54:30+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/stamford/</loc>
-		<lastmod>2025-02-06T02:26:04+00:00</lastmod>
+		<loc>/hartford/</loc>
+		<lastmod>2025-02-07T00:54:29+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/west-haven/</loc>
-		<lastmod>2025-02-06T02:26:04+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/ansonia/</loc>
-		<lastmod>2025-02-06T02:26:03+00:00</lastmod>
+		<loc>/waterbury/</loc>
+		<lastmod>2025-02-07T00:54:29+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/new-haven/</loc>
-		<lastmod>2025-02-06T02:26:03+00:00</lastmod>
+		<lastmod>2025-02-07T00:54:28+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/stamford/</loc>
+		<lastmod>2025-02-07T00:54:28+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/west-haven/</loc>
+		<lastmod>2025-02-07T00:54:28+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/norwich/</loc>
-		<lastmod>2025-02-06T02:26:03+00:00</lastmod>
+		<lastmod>2025-02-07T00:54:27+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/ansonia/</loc>
+		<lastmod>2025-02-07T00:54:27+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/shelton/</loc>
-		<lastmod>2025-02-06T02:26:02+00:00</lastmod>
+		<lastmod>2025-02-07T00:54:26+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/torrington/</loc>
-		<lastmod>2025-02-06T02:26:02+00:00</lastmod>
+		<lastmod>2025-02-07T00:54:26+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/east-hartford/</loc>
-		<lastmod>2025-02-06T02:26:02+00:00</lastmod>
+		<lastmod>2025-02-07T00:54:26+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/manchester/</loc>
-		<lastmod>2025-02-06T02:26:01+00:00</lastmod>
+		<lastmod>2025-02-07T00:54:25+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/stratford/</loc>
-		<lastmod>2025-02-06T02:26:01+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/bristol-2/</loc>
-		<lastmod>2025-02-06T02:26:00+00:00</lastmod>
+		<lastmod>2025-02-07T00:54:25+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/west-hartford/</loc>
-		<lastmod>2025-02-06T02:26:00+00:00</lastmod>
+		<lastmod>2025-02-07T00:54:24+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/middletown/</loc>
-		<lastmod>2025-02-06T02:26:00+00:00</lastmod>
+		<lastmod>2025-02-07T00:54:24+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/bristol-2/</loc>
+		<lastmod>2025-02-07T00:54:23+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/bridgeport/</loc>
-		<lastmod>2025-02-06T02:25:59+00:00</lastmod>
+		<lastmod>2025-02-07T00:54:23+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/rentals/</loc>
